@@ -67,8 +67,9 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1>Hi name is Phil</h1>
-                <p>Building a future in tech.</p>
+                <h1>Hi name is PhiL</h1>
+                <p>Building a future in tech and working hard at understanding 
+                    that only through hard work and determination our goals will be accomplished.</p>
                 <a href="#" class="btn btn-primary btn-lg">Enter Now</a>
             </div>
         </div>
@@ -122,7 +123,7 @@
                     
                     </form>                    
                                     
-                <a href="#" class="btn btn-primary btn-lg">Return</a>
+                <a href="#" class="btn btn-primary btn-lg">Return to Top</a>
                 </div>                
                 
             </div>
